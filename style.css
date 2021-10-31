@@ -1,0 +1,26 @@
+.carouselExampleCaptions {
+  border-radius: 25px;
+  padding-left: 2rem;
+  padding-bottom: 2rem;
+}
+body {
+  min-height: 2000px;
+}
+
+#home {
+  padding-top: 5rem;
+}
+#about {
+  min-height: 1000px;
+  padding-top: 2rem;
+  background-color: #19748c;
+  min-height: 150px;
+}
+#galeri {
+  min-height: 1000px;
+  padding-bottom: 1rem;
+  background-color: #46f2f2;
+}
+section {
+  padding-top: 5rem;
+}
